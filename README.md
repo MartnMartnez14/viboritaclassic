@@ -2,6 +2,10 @@
 
 Juego clásico de la viborita hecho con Python y Tkinter, con eventos legendarios cada 10 niveles (sombras guardianas aliadas y depredadoras enemigas), 10 tableros nocturnos conectados por portales cada 25 niveles, pausa in-game y controles alternativos (WASD y teclado numérico). Come las píldoras de colores, crece con cada una y evita chocar contra los bordes o contra tu propio cuerpo.
 
+## Juego en itch.io
+
+[Ver el juego en itch.io](https://martnmartnez14.itch.io/snake-plus-spanish)
+
 ## Requisitos
 
 - Python 3.8 o superior
